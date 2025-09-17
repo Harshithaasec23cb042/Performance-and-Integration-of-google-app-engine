@@ -1,1 +1,1 @@
-printf("Harshithaa");
+print("Harshithaa");
